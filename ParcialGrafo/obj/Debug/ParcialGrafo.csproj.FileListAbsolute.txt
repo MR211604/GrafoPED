@@ -1,0 +1,139 @@
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csprojResolveAssemblyReference.cache
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.Cache
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+c:\users\arely viana\documents\visual studio 2017\Projects\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csprojResolveAssemblyReference.cache
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.Cache
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+C:\Users\Arely Viana\Documents\Visual Studio 2017\Projects\RP142494_GV152661_PARCIAL2\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+C:\Users\Usuario\Videos\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.Cache
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csprojResolveAssemblyReference.cache
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.Cache
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csprojResolveAssemblyReference.cache
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.Cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CoreCompileInputs.cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.AssemblyReference.cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.SuggestedBindingRedirects.cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_16_43_09_gv152661_Guia9\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CopyComplete
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.AssemblyReference.cache
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.cache
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CoreCompileInputs.cache
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CopyComplete
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Login.resources
+C:\Users\miria\Desktop\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Registro.resources
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Login.resources
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Registro.resources
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CopyComplete
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+C:\Users\david\OneDrive\Escritorio\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe.config
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.exe
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\ParcialGrafo.pdb
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.AssemblyReference.cache
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.SuggestedBindingRedirects.cache
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FArco.resources
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Form1.resources
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.FVertice.resources
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Login.resources
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Properties.Resources.resources
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.Registro.resources
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.GenerateResource.cache
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CoreCompileInputs.cache
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.csproj.CopyComplete
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.exe
+D:\UDB\Ciclo 3\PED941\proyectos VSC\ParcialGrafo\ParcialGrafo\ParcialGrafo\obj\Debug\ParcialGrafo.pdb
