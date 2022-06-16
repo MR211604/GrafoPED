@@ -63,7 +63,7 @@ namespace ParcialGrafo
         public void DibujarVertice(Graphics g)
         {
             SolidBrush b = new SolidBrush(this.color_nodo);
-            Rectangle areaNodo = new Rectangle(this._posicion.X - radio, this._posicion.Y - radio, this.dimensiones.Width + +50, this.dimensiones.Height);
+            Rectangle areaNodo = new Rectangle(this._posicion.X - radio, this._posicion.Y - radio, this.dimensiones.Width + 50, this.dimensiones.Height);
             g.FillEllipse(b, areaNodo);
             g.DrawString(this.Valor, new Font("Arial", 8), new SolidBrush(color_fuente), this._posicion.X + 25, this._posicion.Y, new StringFormat() { Alignment = StringAlignment.Center, LineAlignment = StringAlignment.Center });
             g.DrawEllipse(new Pen(Brushes.Black, (float)4), areaNodo);
@@ -102,7 +102,7 @@ namespace ParcialGrafo
                     g.DrawLine(new Pen(new SolidBrush(arco.color), arco.grosor_flecha), _posicion, new Point(arco.nDestino.Posicion.X + (int)(radio * difX / distancia), arco.nDestino.Posicion.Y + (int)(radio * difY / distancia)));
                 else
                     MessageBox.Show(Form1.dirigido.ToString());
-                g.DrawString(arco.peso.ToString(), new Font("Century Gothic", 9, FontStyle.Bold), new SolidBrush(Color.Black), this._posicion.X - (int)(difX / 3), this._posicion.Y - (int)(difY / 3), new StringFormat() { Alignment = StringAlignment.Center, LineAlignment = StringAlignment.Center });
+                g.DrawString(arco.peso.ToString(), new Font("Arial", 12, FontStyle.Bold), new SolidBrush(Color.Black), this._posicion.X - (int)(difX / 2), this._posicion.Y - (int)(difY / 2), new StringFormat() { Alignment = StringAlignment.Center, LineAlignment = StringAlignment.Center });
             }
         }
     }
